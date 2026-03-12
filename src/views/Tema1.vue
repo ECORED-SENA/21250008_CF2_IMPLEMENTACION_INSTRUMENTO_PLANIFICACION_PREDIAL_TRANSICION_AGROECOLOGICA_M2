@@ -361,19 +361,19 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | 20% de vegetales usados para alimentación animal.
+                  | 20 % de vegetales usados para alimentación animal.
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | 50% de vegetales usados para alimentación animal. 
+                  | 50 % de vegetales usados para alimentación animal. 
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | 80% de vegetales usados para alimentación animal. 
+                  | 80 % de vegetales usados para alimentación animal. 
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | 100% de los productos y/o pastoreo con los que se alimentan los animales se producen en la finca y todo su estiércol se recicla como fertilizante.
+                  | 100 % de los productos y/o pastoreo con los que se alimentan los animales se producen en la finca y todo su estiércol se recicla como fertilizante.
     
     .bg--img_03.mb-5
       .row.h-100.align-items-center
@@ -437,23 +437,23 @@
                 li
                   .lista-ol--cuadro__vineta
                     span 1
-                  | 100% comprados. 
+                  | 100 % comprados. 
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | 90% comprados, 10% producidos.
+                  | 90 % comprados, 10 % producidos.
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | 50% comprados, 50% producidos.
+                  | 50 % comprados, 50 % producidos.
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | 10% comprados, 90% producidos.
+                  | 10 % comprados, 90 % producidos.
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | 100% producidos en la finca.
+                  | 100 % producidos en la finca.
             .row(titulo="Protección y custodia de semillas").ajuste-cajaAcordion
               p.mb-1 #[b Descripción]: evalúa la conservación y reproducción de semillas criollas y nativas en la finca.
               p.mb-1 #[b Importancia agroecológica]: preserva la biodiversidad, la cultura campesina y la soberanía genética frente a modelos dependientes y homogéneos.
@@ -466,19 +466,19 @@
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Hasta 20% criollas reproducidas e intercambiadas.
+                  | Hasta 20 % criollas reproducidas e intercambiadas.
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | 20 - 50% criollas reproducidas e intercambiadas.
+                  | 20 - 50 % criollas reproducidas e intercambiadas.
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Más del 50% criollas reproducidas e intercambiadas.
+                  | Más del 50 % criollas reproducidas e intercambiadas.
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | 100% criollas reproducidas, intercambiadas y conservadas sin compra.
+                  | 100 % criollas reproducidas, intercambiadas y conservadas sin compra.
         .col-xl-auto
           figure(data-aos="fade-left").d-none.d-xl-block
             img(src="@/assets/curso/temas/img28.png", alt="" ).m-auto

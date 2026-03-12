@@ -20,7 +20,7 @@ export default {
       tema: 'Prácticas Agroecológicas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo: evaluar y reforzar el conocimiento adquirido sobre Valoración y manejo de Sistemas Productivos Agroecológicos.',
+        '<b> Objetivo: evaluar y reforzar el conocimiento adquirido sobre Valoración y manejo de sistemas productivos agroecológicos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
